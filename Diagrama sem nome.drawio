@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T00:31:32.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.4" etag="xB1pO71JRIHVwrlmg_az" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T00:33:46.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="eVm1eFPwx4aED-ctwgyn" version="21.7.4" type="github">
   <diagram name="Página-1" id="HHZkWnQ3QFmK1URnwjJ-">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uDRIb2TbiKP7ugC6pILz-1" value="Usuário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDRIb2TbiKP7ugC6pILz-2" value="Aluga" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDRIb2TbiKP7ugC6pILz-3" value="Livro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
